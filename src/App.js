@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <main>
-        <Title></Title>
+        <Title content="Much better hi there"></Title>
       </main>
       <p>Here we go I guess. Time to React properly.</p>
     </div>
